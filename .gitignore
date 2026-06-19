@@ -11,6 +11,7 @@ __pycache__/
 *.pyd
 
 .gemini/
+GEMINI.md
 
 # Graphify Outputs
 graphify-out/
